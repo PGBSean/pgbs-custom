@@ -4,6 +4,8 @@ This repo lets you download your OpenCore EFI for my current build.
 
 WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
 
+[Download the Beta here!](https://github.com/PGBSean/pgbs-custom/releases/tag/v0.1)
+
 ## Screenshot
 ![Screenshot 2023-08-07 at 13 03 41](https://github.com/PGBSean/pgbs-custom/assets/97381104/3b4977f0-60ee-41de-a3cf-be2f60b78089)
 

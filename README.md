@@ -14,7 +14,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 |  Components             |         Requirements                |            Note                      |
 |-------------------------|-------------------------------------|--------------------------------------|
 | CPU                     |  AMD Ryzen 5 3400G                  |  For other CPUs, contact me |
-| GPU                     |  AMD Radeon RX Vegas 11 iGPU        | Thanks to NootedRed to get AMD iGPU support on this Hackintosh! |
+| GPU                     |  AMD Radeon RX Vegas 11 iGPU        | Thanks to NootedRed to get AMD iGPU support on this Hackintosh! Make sure that you don't have a dGPU in your system! |
 | Motherboard             | ASRock B450M Pro4-F R2.0            |  This build will only work for the B450 motherboards, for other, please refer to the OpenCore Guide.|
 
 ## Bugs

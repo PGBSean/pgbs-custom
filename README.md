@@ -4,7 +4,7 @@ This repo lets you download your OpenCore EFI for my current build.
 
 WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
 
-[Download the Beta here!](https://github.com/PGBSean/pgbs-custom/releases/tag/v0.1)
+[Download the Beta here!](https://github.com/PGBSean/pgbs-custom/releases/tag/v0.2)
 
 ## Screenshot
 ![Screenshot 2023-08-07 at 13 03 41](https://github.com/PGBSean/pgbs-custom/assets/97381104/3b4977f0-60ee-41de-a3cf-be2f60b78089)
@@ -18,7 +18,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 | Motherboard             | ASRock B450M Pro4-F R2.0            |  This build will only work for the B450 motherboards, for other, please refer to the OpenCore Guide.|
 
 ## Bugs
-**This build is under 30 days old!** If you're planning to try it out, make sure to have a backup first, and then install it on a secondary drive or partition! Build is being tested by me.
+**This build is under 30 days old!** If you're planning to try it out, make sure to have a backup first, and then install it on a secondary drive or partition! Builds is being tested by me.
 
 ## Tested versions
 + macOS Big Sur

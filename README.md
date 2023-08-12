@@ -6,6 +6,8 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 
 [Download the Beta here!](https://github.com/PGBSean/pgbs-custom/releases/tag/v0.3)
 
+**Starting in v0.4, security features like SecureBootModel, Vault, ApECID will be included in the v0.4 release. Bugs might expected, so be sure to report them in the GitHub's Issues tab!**
+
 ## Screenshot
 ![Screenshot 2023-08-07 at 13 03 41](https://github.com/PGBSean/pgbs-custom/assets/97381104/3b4977f0-60ee-41de-a3cf-be2f60b78089)
 

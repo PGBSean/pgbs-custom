@@ -4,8 +4,6 @@ This repo lets you download your OpenCore EFI for my current build.
 
 WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
 
-[Download the Beta here!](https://github.com/PGBSean/pgbs-custom/releases/tag/v0.4)
-
 **Starting in v0.4, security features like SecureBootModel, Vault, ApECID will be included in the v0.4 release. Bugs might expected, so be sure to report them in the GitHub's Issues tab!**
 
 ## Screenshot
@@ -24,6 +22,8 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 
 ## Bugs
 **This build is under 30 days old!** If you're planning to try it out, make sure to have a backup first, and then install it on a secondary drive or partition! Builds is being tested by me.
+
+[Download the unstable version here.](https://github.com/PGBSean/pgbs-custom/releases/tag/v0.4)
 
 ## Tested versions
 + macOS Catalina

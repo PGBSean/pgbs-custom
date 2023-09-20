@@ -14,9 +14,9 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 
 |  Components             |         Requirements                |            Note                      |
 |-------------------------|-------------------------------------|--------------------------------------|
-| CPU                     |  AMD Ryzen 5 3400G                  |  This CPU is using a 4 cores kernel patch. If your CPU have more or less cores than this EFI, change it and refer to the OpenCore guide. |
-| GPU                     |  AMD Radeon RX Vegas 11 iGPU        | Thanks to NootedRed to get AMD iGPU support on this Hackintosh! Make sure that you don't have a dGPU in your system! |
-| Motherboard             | ASRock B450M Pro4-F R2.0            |  This build will only work for the B450 motherboards, for other, please refer to the OpenCore Guide.|
+| CPU                     |  4 cores AMD CPU                  |  This EFI is using a 4 cores kernel patch. If your CPU have more or less cores than this EFI, change it and refer to the OpenCore guide. |
+| GPU                     |  AMD Vegas iGPU        | Thanks to NootedRed to get AMD iGPU support on this Hackintosh! Make sure that you don't have a dGPU in your system! |
+| Motherboard             | B450 motherboards            |  This build will only work for the B450 motherboards, for other, please refer to the OpenCore Guide.|
 
 
 ## Settings to change
@@ -29,6 +29,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 |VRAM for iGPU|Above 512M for best results|
 |Fast Boot|**OFF**|
 |CSM|**OFF**|
+|Serial Port|**OFF**|
 
 ## Bugs
 + Calling on Discord broke

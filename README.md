@@ -7,16 +7,17 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 **Starting in v0.4, security features like SecureBootModel, Vault, ApECID will be included in the v0.4 release. Bugs might expected, so be sure to report them in the GitHub's Issues tab!**
 
 ## Screenshot
-![Screenshot 2023-08-07 at 13 03 41](https://github.com/PGBSean/pgbs-custom/assets/97381104/3b4977f0-60ee-41de-a3cf-be2f60b78089)
+![image](https://github.com/PGBSean/pgbs-custom/assets/97381104/134cdba8-f437-4358-8fe8-5aa18c4f4d0e)
+
 
 
 ## This EFI applys to:
 
 |  Components             |         Requirements                |            Note                      |
 |-------------------------|-------------------------------------|--------------------------------------|
-| CPU                     |  4 cores AMD CPU                  |  This EFI is using a 4 cores kernel patch. If your CPU have more or less cores than this EFI, change it and refer to the OpenCore guide. |
-| GPU                     |  AMD Vegas iGPU        | Thanks to NootedRed to get AMD iGPU support on this Hackintosh! Make sure that you don't have a dGPU in your system! |
-| Motherboard             | B450 motherboards            |  This build will only work for the B450 motherboards, for other, please refer to the OpenCore Guide.|
+| CPU                     |  AMD Zen-based CPU                  |  This EFI is using a 4 cores kernel patch. If your CPU have more or less cores than this EFI, change it and refer to the OpenCore guide. |
+| GPU                     |  AMD Vegas iGPU        | Thanks to NootedRed to get AMD iGPU support on this Hackintosh! Make sure that you don't have a dGPU in your system or add -wegnogpu into your boot-args |
+| Motherboard             | B450 motherboards            |  This build will only work for the B450 motherboards, for other, you're on your own.|
 
 
 ## Settings to change

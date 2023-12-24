@@ -1,10 +1,11 @@
+### **This EFI is for educational purposes and is not be affiliated with Apple, ASRock, AMD or Microsoft. You should not ask for help in any forums, servers as it is violating the rules of the community.** 
+#
+
 # pgbs's custom
 
 This repo lets you download your OpenCore EFI for my current build.
 
-WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
-
-**Starting in v0.4, security features like SecureBootModel, Vault, ApECID will be included in the v0.4 release. Bugs might expected, so be sure to report them in the GitHub's Issues tab!**
+WARNING ⚠️: I  do not responsible for lost personal data, or damage personal property. **You are doing this at your own RISK.**
 
 ## Screenshot
 ![image](https://github.com/PGBSean/pgbs-custom/assets/97381104/134cdba8-f437-4358-8fe8-5aa18c4f4d0e)

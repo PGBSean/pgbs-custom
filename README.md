@@ -17,8 +17,8 @@ WARNING ⚠️: I  do not responsible for lost personal data, or damage personal
 |  Components             |         Requirements                |            Note                      |
 |-------------------------|-------------------------------------|--------------------------------------|
 | CPU                     |  AMD Zen-based CPU                  |  This EFI is using a 4 cores kernel patch. If your CPU have more or less cores than this EFI, change it and refer to the OpenCore guide. |
-| GPU                     |  AMD Vegas iGPU        | Thanks to NootedRed to get AMD iGPU support on this Hackintosh! Make sure that you don't have a dGPU in your system or add -wegnogpu into your boot-args |
-| Motherboard             | B450 motherboards            |  This build will only work for the B450 motherboards, for other, you're on your own.|
+| GPU                     |  AMD Vegas iGPU        | Thanks to @NootedRed to get AMD iGPU support on this Hackintosh! Make sure that you don't have a dGPU in your system or add -wegnogpu into your boot-args |
+| Motherboard             | B450 motherboards            |  This build will only work for the B450 motherboards (specifically ASRock B450M Pro4-F R2.0), for other, you're on your own.|
 
 
 ## Settings to change
@@ -32,6 +32,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or damage personal
 |Fast Boot|**OFF**|
 |CSM|**OFF**|
 |Serial Port|**OFF**|
+|IOMMU|**OFF**|
 
 ## Bugs
 + Calling on Discord broke

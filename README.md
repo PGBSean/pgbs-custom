@@ -37,8 +37,9 @@ WARNING ⚠️: I  do not responsible for lost personal data, or damage personal
 ## Bugs
 + Calling on Discord broke
 > Require a patch of AMDFriend from [this comment in Reddit](https://www.reddit.com/r/hackintosh/comments/15ke8vp/comment/jv8cc25/?utm_source=share&utm_medium=web2x&context=3)
-+ Chromium browsers (Edge, Chrome, Opera, Arc Browser) glitchs
-> Known issue from NootedRed, please wait for the next patch from them.
++ ~~Chromium browsers (Edge, Chrome, Opera, Arc Browser) glitchs~~
+> ~~Known issue from NootedRed, please wait for the next patch from them.~~
+> A patch is now available.
 
 
 ## Tested versions

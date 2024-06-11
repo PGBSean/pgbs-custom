@@ -47,4 +47,6 @@ WARNING ⚠️: I  do not responsible for lost personal data, or damage personal
 + macOS Monterey
 + macOS Ventura
 + macOS Sonoma
++ **[BETA]** macOS Sequioa
+> **DO NOT ATTEMPT TO UPGRADE TO SEQUIOA** as NootedRed is **NOT** a stable kext for beta updates like these.
 

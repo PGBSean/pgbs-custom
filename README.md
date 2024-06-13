@@ -1,6 +1,3 @@
-### **This EFI is for educational purposes and is not be affiliated with Apple, ASRock, AMD or Microsoft. You should not ask for help in any forums, servers as it is violating the rules of the community.** 
-#
-
 # pgbs's custom
 
 This repo lets you download your OpenCore EFI for my current build.
@@ -37,10 +34,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or damage personal
 ## Bugs
 + Calling on Discord broke
 > Require a patch of AMDFriend from [this comment in Reddit](https://www.reddit.com/r/hackintosh/comments/15ke8vp/comment/jv8cc25/?utm_source=share&utm_medium=web2x&context=3)
-+ ~~Chromium browsers (Edge, Chrome, Opera, Arc Browser) glitchs~~
-> ~~Known issue from NootedRed, please wait for the next patch from them.~~
-> A patch is now available.
-
++ Chromium browsers (Edge, Chrome, Opera, Arc Browser) glitchs
 
 ## Tested versions
 + macOS Big Sur
@@ -48,5 +42,5 @@ WARNING ⚠️: I  do not responsible for lost personal data, or damage personal
 + macOS Ventura
 + macOS Sonoma
 + **[BETA]** macOS Sequioa
-> **DO NOT ATTEMPT TO UPGRADE TO SEQUIOA** as NootedRed is **NOT** a stable kext for beta updates like these.
+> **DO NOT ATTEMPT TO UPGRADE TO SEQUIOA** as NootedRed is **NOT** a stable kext for beta updates like these. Follow updates from their side [here](https://github.com/ChefKissInc/NootedRed)
 
